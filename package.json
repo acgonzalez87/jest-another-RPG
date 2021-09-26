@@ -1,0 +1,24 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG to learn OOP and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acgonzalez87/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "OOP",
+    "TDD"
+  ],
+  "author": "Anthony Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acgonzalez87/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/acgonzalez87/jest-another-RPG#readme"
+}
